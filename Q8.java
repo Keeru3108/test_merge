@@ -40,6 +40,7 @@ class Q8
 		System.out.println(squirrelPlay(70, false));
 		System.out.println(squirrelPlay(95, false));
 		System.out.println(squirrelPlay(95, true));
+		System.out.println("Helloworld");
 	}
 }
 
